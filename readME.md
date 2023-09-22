@@ -1,4 +1,4 @@
-# Doctor Battery 
+# Battery Doctor
 ## A solution for people who don't disconnect their laptops and keep overcharging them accidentally :( 
 
 **THIS IS A REAL PROBLEM**
