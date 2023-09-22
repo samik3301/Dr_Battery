@@ -14,6 +14,8 @@ To run the script-
 
 `cd [repo-name]`
 
+`pip install requirements.txt`
+
 `python3 battery_checker.py`
 
 **BATTERY LIFE MATTERS**
